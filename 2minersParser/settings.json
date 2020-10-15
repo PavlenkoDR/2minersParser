@@ -1,0 +1,7 @@
+{
+	"miner"				: "exampleEthermineMiner",
+	"worker_name"		: "work1",
+	"fall_percentage"	: "95",
+	"user_id"			: "exampleVKID012345", 
+	"token"				: "exampleVKToken"
+}
